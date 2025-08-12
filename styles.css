@@ -1,0 +1,25 @@
+
+html, body{
+    background-color: #14385f;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: #C69749;
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+.LoginBox {
+    background-color: #C69749;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 100px auto;
+}
+.header h1{
+    font-family: 'Courier New', Courier, monospace;
+}
